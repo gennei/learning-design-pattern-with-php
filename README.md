@@ -7,7 +7,7 @@
 ## 進捗
 ### Part1 デザインパターンになれる
   - [x] Iterator
-  - [ ] Adapter
+  - [x] Adapter
 
 ### Part2 サブクラスにまかせる
   - [ ] Template Method
