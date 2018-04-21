@@ -6,7 +6,7 @@
 
 ## 進捗
 ### Part1 デザインパターンになれる
-  - [ ] Iterator
+  - [x] Iterator
   - [ ] Adapter
 
 ### Part2 サブクラスにまかせる
@@ -15,7 +15,7 @@
 
 ### Part3 インスタンスを作る
   - [ ] Singleton
-  - [ ] Protptype
+  - [ ] Prototype
   - [ ] Builder
   - [ ] Abstract Factory
 
