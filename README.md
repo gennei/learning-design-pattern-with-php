@@ -10,7 +10,7 @@
   - [x] Adapter
 
 ### Part2 サブクラスにまかせる
-  - [ ] Template Method
+  - [x] Template Method
   - [ ] Factory Method
 
 ### Part3 インスタンスを作る
