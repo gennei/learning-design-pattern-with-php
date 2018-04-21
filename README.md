@@ -47,3 +47,10 @@
 ### Part10 クラスで表現する
 - [ ] Command
 - [ ] Interpreter
+
+
+### 実行環境
+```
+$ php -v
+PHP 7.2.1
+```
