@@ -4,13 +4,13 @@ namespace DesignPattern\Sample\Singleton;
 
 class Singleton {
 
-    static private $singleton;
+    private static $singleton;
 
     private function __construct() {
         echo "インスタンスを生成しました。" . PHP_EOL;
     }
 
-    static public function getInstance() {
+    public static  function getInstance() {
         if (self::$singleton) {
             return self::$singleton;
         }
