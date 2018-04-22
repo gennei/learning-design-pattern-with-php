@@ -14,6 +14,6 @@ class Singleton {
         if (self::$singleton) {
             return self::$singleton;
         }
-        return new Singleton();
+        return self::$singleton = new Singleton();
     }
 }
