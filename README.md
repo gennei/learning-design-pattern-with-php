@@ -11,7 +11,7 @@
 
 ### Part2 サブクラスにまかせる
   - [x] Template Method
-  - [ ] Factory Method
+  - [x] Factory Method
 
 ### Part3 インスタンスを作る
   - [ ] Singleton
