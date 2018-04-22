@@ -14,7 +14,7 @@
   - [x] Factory Method
 
 ### Part3 インスタンスを作る
-  - [ ] Singleton
+  - [x] Singleton
   - [ ] Prototype
   - [ ] Builder
   - [ ] Abstract Factory
