@@ -15,7 +15,7 @@
 
 ### Part3 インスタンスを作る
   - [x] Singleton
-  - [ ] Prototype
+  - [x] Prototype
   - [ ] Builder
   - [ ] Abstract Factory
 
