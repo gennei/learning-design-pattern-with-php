@@ -17,7 +17,7 @@
   - [x] Singleton
   - [x] Prototype
   - [x] Builder
-  - [ ] Abstract Factory
+  - [x] Abstract Factory
 
 ### Part4 分けて考える
   - [ ] Bridge
