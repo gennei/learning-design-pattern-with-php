@@ -20,7 +20,7 @@
   - [x] Abstract Factory
 
 ### Part4 分けて考える
-  - [ ] Bridge
+  - [x] Bridge
   - [ ] Strategy
 
 ### Part5 同一視
