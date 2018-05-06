@@ -11,7 +11,6 @@ class UnderlinePen implements Product {
     }
 
     public function use(string $s) {
-        // TODO: Implement use() method.
         $length = mb_strlen($s);
         echo "\" {$s} \"" . PHP_EOL;
         echo "  ";
