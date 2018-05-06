@@ -21,7 +21,7 @@
 
 ### Part4 分けて考える
   - [x] Bridge
-  - [ ] Strategy
+  - [x] Strategy
 
 ### Part5 同一視
   - [ ] Composite
