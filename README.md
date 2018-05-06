@@ -24,7 +24,7 @@
   - [x] Strategy
 
 ### Part5 同一視
-  - [ ] Composite
+  - [x] Composite
   - [ ] Decorator
 
 ### Part6 構造を渡り歩く
