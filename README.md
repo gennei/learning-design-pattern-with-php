@@ -6,34 +6,34 @@
 
 ## 進捗
 ### Part1 デザインパターンになれる
-  - [x] Iterator
-  - [x] Adapter
+- [x] Iterator
+- [x] Adapter
 
 ### Part2 サブクラスにまかせる
-  - [x] Template Method
-  - [x] Factory Method
+- [x] Template Method
+- [x] Factory Method
 
 ### Part3 インスタンスを作る
-  - [x] Singleton
-  - [x] Prototype
-  - [x] Builder
-  - [x] Abstract Factory
+- [x] Singleton
+- [x] Prototype
+- [x] Builder
+- [x] Abstract Factory
 
 ### Part4 分けて考える
-  - [x] Bridge
-  - [x] Strategy
+- [x] Bridge
+- [x] Strategy
 
 ### Part5 同一視
-  - [x] Composite
-  - [ ] Decorator
+- [x] Composite
+- [x] Decorator
 
 ### Part6 構造を渡り歩く
-  - [ ] Visitor
-  - [ ] Chain of Responsibility
+- [ ] Visitor
+- [ ] Chain of Responsibility
 
 ### Part7 シンプルにする
-  - [ ] Facade
-  - [ ] Mediator
+- [ ] Facade
+- [ ] Mediator
 
 ### Part8 状態を管理する
 - [ ] Observer
