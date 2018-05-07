@@ -28,7 +28,7 @@
 - [x] Decorator
 
 ### Part6 構造を渡り歩く
-- [ ] Visitor
+- [x] Visitor
 - [ ] Chain of Responsibility
 
 ### Part7 シンプルにする
