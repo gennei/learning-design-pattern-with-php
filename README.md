@@ -29,7 +29,7 @@
 
 ### Part6 構造を渡り歩く
 - [x] Visitor
-- [ ] Chain of Responsibility
+- [x] Chain of Responsibility
 
 ### Part7 シンプルにする
 - [ ] Facade
