@@ -32,7 +32,7 @@
 - [x] Chain of Responsibility
 
 ### Part7 シンプルにする
-- [ ] Facade
+- [x] Facade
 - [ ] Mediator
 
 ### Part8 状態を管理する
