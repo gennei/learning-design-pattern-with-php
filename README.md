@@ -36,7 +36,7 @@
 - [ ] Mediator
 
 ### Part8 状態を管理する
-- [ ] Observer
+- [x] Observer
 - [ ] Memento
 - [ ] State
 
