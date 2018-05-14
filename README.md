@@ -37,7 +37,7 @@
 
 ### Part8 状態を管理する
 - [x] Observer
-- [ ] Memento
+- [x] Memento
 - [ ] State
 
 ### Part9 無駄をなくす
