@@ -41,7 +41,7 @@
 - [ ] State
 
 ### Part9 無駄をなくす
-- [ ] Flyweight
+- [x] Flyweight
 - [ ] Proxy
 
 ### Part10 クラスで表現する
