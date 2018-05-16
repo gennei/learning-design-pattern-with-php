@@ -42,7 +42,7 @@
 
 ### Part9 無駄をなくす
 - [x] Flyweight
-- [ ] Proxy
+- [x] Proxy
 
 ### Part10 クラスで表現する
 - [ ] Command
