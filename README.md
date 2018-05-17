@@ -46,7 +46,7 @@
 
 ### Part10 クラスで表現する
 - [ ] Command
-- [ ] Interpreter
+- [x] Interpreter
 
 
 ### 実行環境

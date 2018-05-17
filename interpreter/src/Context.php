@@ -31,7 +31,6 @@ class Context {
     }
 
     public function currentNumber() : int {
-        $number = 0;
-        return $number;
+        return (int)$this->current_token;
     }
 }
